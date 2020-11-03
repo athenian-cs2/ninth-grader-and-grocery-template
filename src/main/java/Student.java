@@ -17,11 +17,18 @@ public class Student extends Person {
         this.classYear = 2024;
     }
 
+    // doSomething() method
+    public void doSomething() {
+        System.out.println("I'm studying!");
+    }
+
     // toString()
     public String toString() {
         String str = this.getFirstName() + " " + this.getLastName() + ", " + this.classYear;
         return str;
     }
+
+    
 
     // Getters
     // We've already inheritted getFirstName() and getLastName()
