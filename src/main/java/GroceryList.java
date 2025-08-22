@@ -1,3 +1,1 @@
-public class GroceryList {
-    
-}
+public class GroceryList {}
