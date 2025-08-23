@@ -1,3 +1,1 @@
-public class NinthGrader {
-    
-}
+public class NinthGrader {}
